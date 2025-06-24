@@ -9,3 +9,11 @@ Apache -> ```localhost/dashboard/```
 
 The web page is served from **htdocs** in the xampp folder.
 
+## Variables
+```php
+$name
+$first_name
+```
+Variables have to start with a letter (uppercase or lower) or a undercase. But cannot start with a number.
+
+## Syntax
