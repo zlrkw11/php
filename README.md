@@ -8,3 +8,4 @@ on boarding:
 Apache -> ```localhost/dashboard/```
 
 The web page is served from **htdocs** in the xampp folder.
+
