@@ -2,6 +2,7 @@
     echo 'Hello world!';
     $name = "John Doe";
     echo $name;
+    define('AGE', 30);
 ?>
 
 <!DOCTYPE html>
@@ -13,7 +14,8 @@
 <body>
     <h1>User Profile Page</h1>
     <div>
-        <?php echo $name; ?>
+        <?php echo $name;?>
+        <?php echo AGE; ?>
     </div>
 <body>
 </html>
