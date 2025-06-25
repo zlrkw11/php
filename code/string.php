@@ -9,6 +9,10 @@
 
     echo "John said \"Hello World\".";
     echo 'John said "Hello World".'
+    echo strlen($name);
+    echo strtoupper($name);
+    echo strtolower($name);
+    echo str_replace("o", "w", $name)
 ?>
 
 <!DOCTYPE html>
