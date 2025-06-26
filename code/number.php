@@ -14,6 +14,12 @@
     // shorthand operators
     $age = 20;
     $age += 10;
+    echo $age;
+
+    // number functions
+    echo pi();
+    echo floor(3.14);
+    echo ceil(3.14);
 ?>
 
 <!DOCTYPE html>
