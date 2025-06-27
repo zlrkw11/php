@@ -19,9 +19,10 @@
     // merge arrays
     $peopleThree = array_merge($peopleOne, $peopleTwo);
     print_r($peopleThree)
-    // associative arrays
-    
 
+    // associative arrays (key & value pairs)
+    $cars = ['toyota'=>'prius', 'mitsubishi'=>'lancer', 'ford'=>'mustang'];
+    
 ?>
 
 <!DOCTYPE html>
