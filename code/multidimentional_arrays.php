@@ -10,7 +10,8 @@
 
     $blogs[] = ['title'=>'blog 4', 'content'=>'blog 4 body'];
     print_r($blogs);
-    array_pop($blogs);
+    $popped = array_pop($blogs);
+    print_r($popped);
 ?>
 
 <!DOCTYPE html>
